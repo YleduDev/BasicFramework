@@ -1,0 +1,9 @@
+{
+    "name": "com.basic.qframework",
+    "displayName": "unityqframework package",
+    "version": "0.0.8",
+    "unity": "2020.3",
+    "dependencies": {
+        "com.unity.nuget.newtonsoft-json": "2.0.0"
+    }
+} 
